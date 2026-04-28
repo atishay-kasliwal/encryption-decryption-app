@@ -1,0 +1,4 @@
+# ninja log v5
+1	403	7735111916947813	build.ninja	b0c1ef3164bc6545
+1	3430	7735114260459864	CMakeFiles/Encryption_and_Decryption_Application.dir/main.cpp.obj	338af671651513b7
+3435	3801	7735114264169807	Encryption_and_Decryption_Application.exe	16dbc8eeab4c0c8e

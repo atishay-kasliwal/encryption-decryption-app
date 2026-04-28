@@ -1,0 +1,4 @@
+"C:\programs\JetBrains\CLion 2023.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/programs/JetBrains/CLion 2023.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "F:\FCAI-PC\First year assignments\level1-second sem\Assignment 2 SP\Encryption_and_Decryption_Application" -B "F:\FCAI-PC\First year assignments\level1-second sem\Assignment 2 SP\Encryption_and_Decryption_Application\cmake-build-debug"
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
+-- Build files have been written to: F:/FCAI-PC/First year assignments/level1-second sem/Assignment 2 SP/Encryption_and_Decryption_Application/cmake-build-debug
