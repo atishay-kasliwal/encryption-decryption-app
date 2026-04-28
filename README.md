@@ -49,9 +49,7 @@ This is a console-based application that allows users to **encrypt and decrypt m
 Contributions are welcome! Feel free to fork the repo, create a new branch, and submit a pull request.
 
 ## 📬 Contact
-- Mohammed Atef Abd El-Kader: [GitHub](https://github.com/Mohammed-3tef) - [LinkedIn](https://www.linkedin.com/in/mohammed-atef-b0a408299/)
-- Esraa Emary Abd El-Salam: [GitHub](https://github.com/esraa-emary) - [LinkedIn](https://www.linkedin.com/in/esraa-emary-b372b8303/)
-- Aly El-Deen Yasser Aly: [GitHub]() - [LinkedIn]()
+- Atishay Kasliwal: [GitHub](https://github.com/atishay-kasliwal)
 
 ## 📜 License
 This project is licensed under the MIT License.
